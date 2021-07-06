@@ -1,0 +1,1 @@
+## Project developed in the sixth edition of the NLW of React JS (Rocketseat).  
